@@ -1,0 +1,5 @@
+node_modules
+coverage
+*.bak
+*.log
+package-lock.json

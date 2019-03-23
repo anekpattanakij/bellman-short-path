@@ -1,0 +1,15 @@
+{
+  "extends": "airbnb",
+  "overrides": [
+    {
+      "files": ["*.js"],
+      "rules": {
+        "no-underscore-dangle": "off",
+        "guard-for-in": "off",
+        "no-loop-func": "off",
+        "no-restricted-syntax": "off",
+        "class-methods-use-this": "off"
+      }
+    }
+  ]
+}
